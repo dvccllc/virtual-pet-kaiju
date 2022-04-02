@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 87f7343b96372644f83fd731c2e77c70
+timeCreated: 1498566398
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chelonra Battle_2
+    21300002: Chelonra Battle_3
+    21300004: Chelonra Battle_4
+    21300006: Chelonra Battle_5
+    21300008: Chelonra Battle_18
+    21300010: Chelonra Battle_19
+    21300012: Chelonra Battle_20
+    21300014: Chelonra Battle_21
+    21300016: Chelonra Battle_28
+    21300018: Chelonra Battle_29
+    21300020: Chelonra Battle_30
+    21300022: Chelonra Battle_31
+    21300024: Chelonra Battle_40
+    21300026: Chelonra Battle_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chelonra Battle_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 824
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 824
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 824
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 822
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 568
+        width: 128
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 568
+        width: 128
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 568
+        width: 128
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 568
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 312
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 312
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 312
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 312
+        width: 128
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 128
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chelonra Battle_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 128
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

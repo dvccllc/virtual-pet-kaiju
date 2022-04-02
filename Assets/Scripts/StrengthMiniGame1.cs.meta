@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 720248e2b2d5caa41a1fcdbb9c4875f9
+timeCreated: 1506959855
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mountain: {instanceID: 0}
+  - energy: {instanceID: 0}
+  - deadMountain: {fileID: 21300000, guid: e7959c3e95a576d4ea1e8abd7d933477, type: 3}
+  - livingMountain: {fileID: 21300000, guid: 886044fed10afd345964e46551815d8f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
