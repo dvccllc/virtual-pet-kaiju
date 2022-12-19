@@ -3,14 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Creature
-  - Fireball
-  - Mountain
-  - screen
-  - mscreen
-  - star
-  - out action
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -20,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - fireball
-  - custom sprite window
+  - 
+  - 
   - 
   - 
   - 
@@ -47,7 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Shell
-    uniqueID: 279159497
     locked: 0

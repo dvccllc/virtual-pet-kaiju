@@ -4,8 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/first scene.unity
-  - enabled: 1
-    path: Assets/Scenes/Virtual Pet Kaiju.unity
+  m_Scenes: []
+  m_configObjects: {}
